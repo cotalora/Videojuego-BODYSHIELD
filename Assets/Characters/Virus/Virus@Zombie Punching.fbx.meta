@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: da0077b812e7071498f23079ca38f079
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cubo
+    100002: Cubo.001
+    100004: Cubo.002
+    100006: Cubo.003
+    100008: Cubo.004
+    100010: Cubo.005
+    100012: Cubo.006
+    100014: Cubo.007
+    100016: Cubo.008
+    100018: Cubo.009
+    100020: Cubo.010
+    100022: Cubo.011
+    100024: Cubo.012
+    100026: Esfera
+    100028: Esfera.011
+    100030: Esfera.012
+    100032: mixamorig:Head
+    100034: mixamorig:HeadTop_End
+    100036: mixamorig:Hips
+    100038: mixamorig:LeftArm
+    100040: mixamorig:LeftFoot
+    100042: mixamorig:LeftForeArm
+    100044: mixamorig:LeftHand
+    100046: mixamorig:LeftHandIndex1
+    100048: mixamorig:LeftHandIndex2
+    100050: mixamorig:LeftHandIndex3
+    100052: mixamorig:LeftHandIndex4
+    100054: mixamorig:LeftLeg
+    100056: mixamorig:LeftShoulder
+    100058: mixamorig:LeftToe_End
+    100060: mixamorig:LeftToeBase
+    100062: mixamorig:LeftUpLeg
+    100064: mixamorig:Neck
+    100066: mixamorig:RightArm
+    100068: mixamorig:RightFoot
+    100070: mixamorig:RightForeArm
+    100072: mixamorig:RightHand
+    100074: mixamorig:RightHandIndex1
+    100076: mixamorig:RightHandIndex2
+    100078: mixamorig:RightHandIndex3
+    100080: mixamorig:RightHandIndex4
+    100082: mixamorig:RightLeg
+    100084: mixamorig:RightShoulder
+    100086: mixamorig:RightToe_End
+    100088: mixamorig:RightToeBase
+    100090: mixamorig:RightUpLeg
+    100092: mixamorig:Spine
+    100094: mixamorig:Spine1
+    100096: mixamorig:Spine2
+    100098: //RootNode
+    400000: Cubo
+    400002: Cubo.001
+    400004: Cubo.002
+    400006: Cubo.003
+    400008: Cubo.004
+    400010: Cubo.005
+    400012: Cubo.006
+    400014: Cubo.007
+    400016: Cubo.008
+    400018: Cubo.009
+    400020: Cubo.010
+    400022: Cubo.011
+    400024: Cubo.012
+    400026: Esfera
+    400028: Esfera.011
+    400030: Esfera.012
+    400032: mixamorig:Head
+    400034: mixamorig:HeadTop_End
+    400036: mixamorig:Hips
+    400038: mixamorig:LeftArm
+    400040: mixamorig:LeftFoot
+    400042: mixamorig:LeftForeArm
+    400044: mixamorig:LeftHand
+    400046: mixamorig:LeftHandIndex1
+    400048: mixamorig:LeftHandIndex2
+    400050: mixamorig:LeftHandIndex3
+    400052: mixamorig:LeftHandIndex4
+    400054: mixamorig:LeftLeg
+    400056: mixamorig:LeftShoulder
+    400058: mixamorig:LeftToe_End
+    400060: mixamorig:LeftToeBase
+    400062: mixamorig:LeftUpLeg
+    400064: mixamorig:Neck
+    400066: mixamorig:RightArm
+    400068: mixamorig:RightFoot
+    400070: mixamorig:RightForeArm
+    400072: mixamorig:RightHand
+    400074: mixamorig:RightHandIndex1
+    400076: mixamorig:RightHandIndex2
+    400078: mixamorig:RightHandIndex3
+    400080: mixamorig:RightHandIndex4
+    400082: mixamorig:RightLeg
+    400084: mixamorig:RightShoulder
+    400086: mixamorig:RightToe_End
+    400088: mixamorig:RightToeBase
+    400090: mixamorig:RightUpLeg
+    400092: mixamorig:Spine
+    400094: mixamorig:Spine1
+    400096: mixamorig:Spine2
+    400098: //RootNode
+    2100000: No Name
+    4300000: Cubo.009
+    4300002: Cubo.005
+    4300004: Esfera
+    4300006: Cubo.003
+    4300008: Cubo.002
+    4300010: Cubo
+    4300012: Cubo.001
+    4300014: Esfera.011
+    4300016: Esfera.012
+    4300018: Cubo.004
+    4300020: Cubo.006
+    4300022: Cubo.008
+    4300024: Cubo.007
+    4300026: Cubo.010
+    4300028: Cubo.012
+    4300030: Cubo.011
+    7400000: Zombie Punching
+    9500000: //RootNode
+    13700000: Cubo
+    13700002: Cubo.001
+    13700004: Cubo.002
+    13700006: Cubo.003
+    13700008: Cubo.004
+    13700010: Cubo.005
+    13700012: Cubo.006
+    13700014: Cubo.007
+    13700016: Cubo.008
+    13700018: Cubo.009
+    13700020: Cubo.010
+    13700022: Cubo.011
+    13700024: Cubo.012
+    13700026: Esfera
+    13700028: Esfera.011
+    13700030: Esfera.012
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Zombie Punching
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
