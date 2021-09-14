@@ -21,4 +21,4 @@ Se encuentra conectado a una RestApi desarrollada en Php.
 ![image](https://user-images.githubusercontent.com/67478427/133308398-d57b71ea-7a4d-4be4-a61a-fe44dae526b6.png)
 
 ## URL - Video GamePlay
-[https://youtu.be/DNCv7MV3O-E](url)
+https://youtu.be/DNCv7MV3O-E
